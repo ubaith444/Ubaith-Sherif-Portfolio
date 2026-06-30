@@ -40,21 +40,15 @@ git push origin v1.0.0
 
 Description:
 
-```text
 AI Engineer portfolio for Ubaith Sherif with Next.js, TypeScript, SEO, GEO, AEO, JSON-LD, and production CI.
-```
 
 Topics:
 
-```text
-portfolio, ai-engineer, generative-ai, llm, rag, ai-agents, langgraph, fastapi, nextjs, typescript, tailwindcss, seo, json-ld, vercel
-```
+`portfolio`, `ai-engineer`, `generative-ai`, `llm`, `rag`, `ai-agents`, `langgraph`, `fastapi`, `nextjs`, `typescript`, `tailwindcss`, `seo`, `json-ld`, `vercel`
 
 Social preview:
 
-```text
-public/github-social-preview.png
-```
+`public/github-social-preview.png`
 
 ## Deployment Commands
 

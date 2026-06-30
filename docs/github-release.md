@@ -6,68 +6,52 @@ Repository: `ubaith444/Ubaith-Sherif-Portfolio`
 
 Recommended description:
 
-```text
 AI Engineer portfolio for Ubaith Sherif with Next.js, TypeScript, SEO, GEO, AEO, JSON-LD, and production CI.
-```
 
 Recommended homepage:
 
-```text
-https://ubaith-sherif-portfolio.vercel.app
-```
+`https://ubaith-sherif-portfolio.vercel.app`
 
 ## Topics
 
-```text
-portfolio
-ai-engineer
-generative-ai
-llm
-rag
-ai-agents
-langgraph
-fastapi
-nextjs
-typescript
-tailwindcss
-seo
-json-ld
-vercel
-```
+- `portfolio`
+- `ai-engineer`
+- `generative-ai`
+- `llm`
+- `rag`
+- `ai-agents`
+- `langgraph`
+- `fastapi`
+- `nextjs`
+- `typescript`
+- `tailwindcss`
+- `seo`
+- `json-ld`
+- `vercel`
 
 ## Social Preview
 
 Use:
 
-```text
-public/github-social-preview.png
-```
+`public/github-social-preview.png`
 
 Upload it in:
 
-```text
 GitHub repository -> Settings -> General -> Social preview
-```
 
 ## Release
 
 Create release:
 
-```text
-v1.0.0
-```
+`v1.0.0`
 
 Release title:
 
-```text
-v1.0.0 - Initial Production Release
-```
+`v1.0.0 - Initial Production Release`
 
 Release notes source:
 
-```text
-docs/releases/v1.0.0.md
-```
+`docs/releases/v1.0.0.md`
 
 ## Tags
 
