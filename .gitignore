@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Next.js and build output
+.next/
+out/
+dist/
+build/
+.vercel/
+.netlify/
+.open-next/
+
+# Environment and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Logs and reports
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+coverage/
+playwright-report/
+test-results/
+tmp/
+
+# Local tooling
+.agents/
+.DS_Store
+Thumbs.db
+tsconfig.tsbuildinfo
+
+# Package manager caches
+.npm/
+.pnpm-store/

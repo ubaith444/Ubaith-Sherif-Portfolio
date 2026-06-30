@@ -1,0 +1,6 @@
+name = "ubaith-sherif-portfolio"
+compatibility_date = "2026-06-30"
+
+# Cloudflare Pages for Next.js should be deployed through the official
+# Cloudflare/OpenNext adapter. See docs/deployment.md for the full command path.
+pages_build_output_dir = ".vercel/output/static"

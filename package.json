@@ -1,0 +1,53 @@
+{
+  "name": "ubaith-sherif-ai-portfolio",
+  "version": "1.0.0",
+  "description": "AI Engineer portfolio for Ubaith Sherif, built with Next.js, React, TypeScript, Tailwind CSS, SEO, GEO, AEO, JSON-LD, and production CI checks.",
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://ubaith-sherif-portfolio.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubaith444/Ubaith-Sherif-Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ubaith444/Ubaith-Sherif-Portfolio/issues"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm run lint && npm run build",
+    "test:smoke": "node scripts/production-smoke.mjs",
+    "test:e2e": "playwright test"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^3.1.0",
+    "@mdx-js/react": "^3.1.0",
+    "@next/mdx": "^15.1.6",
+    "@vercel/analytics": "^1.5.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.475.0",
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.0.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@tailwindcss/postcss": "^4.0.6",
+    "@types/node": "^22.13.1",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "eslint": "^9.20.1",
+    "eslint-config-next": "^15.1.6",
+    "tailwindcss": "^4.0.6",
+    "typescript": "^5.7.3"
+  }
+}
